@@ -1,4 +1,0 @@
-skin monitoring -dth11,ventillation sheet, skin sensor.
-auto matic fall detection-ir sensor, buzzer. 
-emergency call button-buzzer,
-patient monitoring like 
